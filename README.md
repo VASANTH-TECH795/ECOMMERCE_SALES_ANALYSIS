@@ -1,6 +1,6 @@
 # ECOMMERCE_SALES_ANALYSIS
 SQL  analyzing e-commerce sales data.
-# 📊 E-Commerce Sales Analysis Project (SQL Only)
+# 📊 E-Commerce Sales Analysis Project (SQL)
 
 ## 📌 Project Overview
 This project analyzes e-commerce sales data using SQL to extract meaningful business insights. The analysis focuses on understanding sales performance, customer behavior, product trends, regional performance, and time-based trends using structured SQL queries.
@@ -120,5 +120,3 @@ Aspiring Data Analyst | SQL | Power BI (Learning) | Data Analytics
 
 ---
 
-## ⭐ Note
-This project is purely SQL-based. Power BI dashboard will be added in future updates.
